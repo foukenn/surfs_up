@@ -20,4 +20,8 @@ December Temperature Statisitics :
 
 Both tables are showing differing weather patterns for both monthly periods. Takeaways from this include :
 
- - 
+ - The maximum temperatures of 85 (June) and 83 (December) are remarkable similar.
+ - The average temperatures between June (75) and December (71), with very little fluctuation from both months from an average standpoint.
+ - The minimum temperature of 56 (December) and 64 (June) have the greatest variance, and shows a much lower temperature level in December that may not be favorable for ice cream or surfing. 
+
+# Summary
