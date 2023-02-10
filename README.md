@@ -25,3 +25,5 @@ Both tables are showing differing weather patterns for both monthly periods. Tak
  - The minimum temperature of 56 (December) and 64 (June) have the greatest variance, and shows a much lower temperature level in December that may not be favorable for ice cream or surfing. 
 
 # Summary
+
+Overall, the weather in December and June are statistically very similar, although December has a wider range of results, with its highs being close to June's but its lows being well below June's.
