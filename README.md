@@ -10,10 +10,14 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ## Results
 
-June Temperatures :
+June Temperature Statistics :
 
 ![june temperatures](https://user-images.githubusercontent.com/119345840/217997788-1f64725e-434c-4143-9d28-c9bc5fa36135.PNG)
 
-December Temperatures :
+December Temperature Statisitics :
 
 ![december temperatures!!!](https://user-images.githubusercontent.com/119345840/217997835-fdb55070-70f5-4542-86ea-8e014e5f8523.PNG)
+
+Both tables are showing differing weather patterns for both monthly periods. Takeaways from this include :
+
+ - 
