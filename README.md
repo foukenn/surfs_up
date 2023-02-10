@@ -5,5 +5,5 @@ W. Avy likes your analysis, but he wants more information about temperature tren
 
 ### Deliverables
  -  Deliverable 1: Determine the Summary Statistics for June
- - deliverable 2: Determine the Summary Statistics for December
+ -  Deliverable 2: Determine the Summary Statistics for December
  -  Deliverable 3: A written report for the statistical analysis (README.md)
